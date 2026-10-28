@@ -1,0 +1,1 @@
+this task is on learning promise function in JS.
